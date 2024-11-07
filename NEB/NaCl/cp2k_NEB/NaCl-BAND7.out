@@ -1,0 +1,2944 @@
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    0                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32118237      -0.49967025      -0.49967025
+ MM_DIPOLE| Moment [Debye]        -13.52509523      -1.27003496      -1.27003496
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558366570186664
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    1                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32122766      -0.49944545      -0.49944545
+ MM_DIPOLE| Moment [Debye]        -13.52521033      -1.26946360      -1.26946360
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558376217720266
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    2                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32126682      -0.49920964      -0.49920964
+ MM_DIPOLE| Moment [Debye]        -13.52530987      -1.26886423      -1.26886423
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558385721247234
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    3                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32130031      -0.49896247      -0.49896247
+ MM_DIPOLE| Moment [Debye]        -13.52539499      -1.26823597      -1.26823597
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558395103303496
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    4                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32132853      -0.49870409      -0.49870409
+ MM_DIPOLE| Moment [Debye]        -13.52546673      -1.26757924      -1.26757924
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558404379186356
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    5                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32135187      -0.49843503      -0.49843503
+ MM_DIPOLE| Moment [Debye]        -13.52552606      -1.26689535      -1.26689535
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558413558657463
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    6                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32137068      -0.49815607      -0.49815607
+ MM_DIPOLE| Moment [Debye]        -13.52557386      -1.26618630      -1.26618630
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558422647300276
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    7                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32107855      -0.48652721      -0.48652721
+ MM_DIPOLE| Moment [Debye]        -13.52483133      -1.23662870      -1.23662870
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558693459775185
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    8                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32101536      -0.48606127      -0.48606127
+ MM_DIPOLE| Moment [Debye]        -13.52467073      -1.23544441      -1.23544441
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558701211340136
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    9                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32095338      -0.48565383      -0.48565383
+ MM_DIPOLE| Moment [Debye]        -13.52451318      -1.23440878      -1.23440878
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558708321010457
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   10                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32089253      -0.48529627      -0.48529627
+ MM_DIPOLE| Moment [Debye]        -13.52435853      -1.23349997      -1.23349997
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558714878705686
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   11                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32083278      -0.48498139      -0.48498139
+ MM_DIPOLE| Moment [Debye]        -13.52420665      -1.23269961      -1.23269961
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558720959801633
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   12                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32077406      -0.48470311      -0.48470311
+ MM_DIPOLE| Moment [Debye]        -13.52405740      -1.23199231      -1.23199231
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558726627457631
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   13                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32071632      -0.48445637      -0.48445637
+ MM_DIPOLE| Moment [Debye]        -13.52391063      -1.23136516      -1.23136516
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558731934577665
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   14                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31712351      -0.47833695      -0.47833695
+ MM_DIPOLE| Moment [Debye]        -13.51477862      -1.21581115      -1.21581115
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558928979661502
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   15                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31711320      -0.47838234      -0.47838234
+ MM_DIPOLE| Moment [Debye]        -13.51475243      -1.21592651      -1.21592651
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558929809770191
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   16                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31710106      -0.47845980      -0.47845980
+ MM_DIPOLE| Moment [Debye]        -13.51472157      -1.21612340      -1.21612340
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558930273729246
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   17                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31708723      -0.47856629      -0.47856629
+ MM_DIPOLE| Moment [Debye]        -13.51468642      -1.21639407      -1.21639407
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558930404039302
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   18                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31707185      -0.47869897      -0.47869897
+ MM_DIPOLE| Moment [Debye]        -13.51464732      -1.21673130      -1.21673130
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558930230909795
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   19                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31705504      -0.47885521      -0.47885521
+ MM_DIPOLE| Moment [Debye]        -13.51460460      -1.21712843      -1.21712843
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558929782251184
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   20                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31703693      -0.47903261      -0.47903261
+ MM_DIPOLE| Moment [Debye]        -13.51455857      -1.21757932      -1.21757932
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558929083723640
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   21                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31531763      -0.49878021      -0.49878021
+ MM_DIPOLE| Moment [Debye]        -13.51018853      -1.26777271      -1.26777271
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558783779676460
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   22                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31524954      -0.49955574      -0.49955574
+ MM_DIPOLE| Moment [Debye]        -13.51001547      -1.26974393      -1.26974393
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558775166763652
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   23                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31518491      -0.50027124      -0.50027124
+ MM_DIPOLE| Moment [Debye]        -13.50985121      -1.27156255      -1.27156255
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558767162622317
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   24                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31512351      -0.50093480      -0.50093480
+ MM_DIPOLE| Moment [Debye]        -13.50969513      -1.27324914      -1.27324914
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558759690335577
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   25                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31506510      -0.50155328      -0.50155328
+ MM_DIPOLE| Moment [Debye]        -13.50954669      -1.27482117      -1.27482117
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558752684307805
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   26                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31500950      -0.50213254      -0.50213254
+ MM_DIPOLE| Moment [Debye]        -13.50940535      -1.27629348      -1.27629348
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558746088463991
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   27                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31495651      -0.50267754      -0.50267754
+ MM_DIPOLE| Moment [Debye]        -13.50927066      -1.27767875      -1.27767875
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558739854746804
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   28                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31361346      -0.51513660      -0.51513660
+ MM_DIPOLE| Moment [Debye]        -13.50585697      -1.30934652      -1.30934652
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558590988513359
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   29                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31361734      -0.51531035      -0.51531035
+ MM_DIPOLE| Moment [Debye]        -13.50586685      -1.30978814      -1.30978814
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558589407791942
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   30                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31362007      -0.51548377      -0.51548377
+ MM_DIPOLE| Moment [Debye]        -13.50587377      -1.31022893      -1.31022893
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558587821983537
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   31                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31362172      -0.51565779      -0.51565779
+ MM_DIPOLE| Moment [Debye]        -13.50587797      -1.31067125      -1.31067125
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558586222276887
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   32                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31362237      -0.51583305      -0.51583305
+ MM_DIPOLE| Moment [Debye]        -13.50587962      -1.31111672      -1.31111672
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558584602794554
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   33                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31362210      -0.51600996      -0.51600996
+ MM_DIPOLE| Moment [Debye]        -13.50587893      -1.31156638      -1.31156638
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558582959908179
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   34                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31362097      -0.51618875      -0.51618875
+ MM_DIPOLE| Moment [Debye]        -13.50587607      -1.31202080      -1.31202080
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558581291695333
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   35                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31334985      -0.52680137      -0.52680137
+ MM_DIPOLE| Moment [Debye]        -13.50518694      -1.33899538      -1.33899538
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558477742062564
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   36                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31331770      -0.52714124      -0.52714124
+ MM_DIPOLE| Moment [Debye]        -13.50510524      -1.33985927      -1.33985927
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558474272786128
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   37                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31328712      -0.52745353      -0.52745353
+ MM_DIPOLE| Moment [Debye]        -13.50502751      -1.34065302      -1.34065302
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558471073412093
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   38                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31325799      -0.52774188      -0.52774188
+ MM_DIPOLE| Moment [Debye]        -13.50495347      -1.34138593      -1.34138593
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558468108976143
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   39                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31323022      -0.52800938      -0.52800938
+ MM_DIPOLE| Moment [Debye]        -13.50488287      -1.34206584      -1.34206584
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558465349799249
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   40                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31320370      -0.52825866      -0.52825866
+ MM_DIPOLE| Moment [Debye]        -13.50481546      -1.34269946      -1.34269946
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558462770623976
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   41                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31317835      -0.52849197      -0.52849197
+ MM_DIPOLE| Moment [Debye]        -13.50475104      -1.34329248      -1.34329248
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558460349898709
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   42                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31252228      -0.53361773      -0.53361773
+ MM_DIPOLE| Moment [Debye]        -13.50308348      -1.35632086      -1.35632086
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558405524272658
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   43                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31252203      -0.53367960      -0.53367960
+ MM_DIPOLE| Moment [Debye]        -13.50308283      -1.35647811      -1.35647811
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558404920762257
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   44                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31252124      -0.53373865      -0.53373865
+ MM_DIPOLE| Moment [Debye]        -13.50308083      -1.35662820      -1.35662820
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558404347246636
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   45                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31251996      -0.53379579      -0.53379579
+ MM_DIPOLE| Moment [Debye]        -13.50307759      -1.35677342      -1.35677342
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558403794571987
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   46                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31251824      -0.53385169      -0.53385169
+ MM_DIPOLE| Moment [Debye]        -13.50307320      -1.35691551      -1.35691551
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558403255761647
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   47                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31251609      -0.53390686      -0.53390686
+ MM_DIPOLE| Moment [Debye]        -13.50306775      -1.35705576      -1.35705576
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558402725563710
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   48                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31251357      -0.53396170      -0.53396170
+ MM_DIPOLE| Moment [Debye]        -13.50306133      -1.35719512      -1.35719512
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558402200087698
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   49                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31228638      -0.53680749      -0.53680749
+ MM_DIPOLE| Moment [Debye]        -13.50248388      -1.36442841      -1.36442841
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558374153163143
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   50                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31227085      -0.53693319      -0.53693319
+ MM_DIPOLE| Moment [Debye]        -13.50244439      -1.36474792      -1.36474792
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558372991352272
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   51                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31225602      -0.53704708      -0.53704708
+ MM_DIPOLE| Moment [Debye]        -13.50240671      -1.36503738      -1.36503738
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558371942520594
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   52                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31224186      -0.53715068      -0.53715068
+ MM_DIPOLE| Moment [Debye]        -13.50237072      -1.36530072      -1.36530072
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558370991801013
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   53                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31222832      -0.53724531      -0.53724531
+ MM_DIPOLE| Moment [Debye]        -13.50233630      -1.36554124      -1.36554124
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558370126647645
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   54                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31221535      -0.53733207      -0.53733207
+ MM_DIPOLE| Moment [Debye]        -13.50230334      -1.36576176      -1.36576176
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558369336442681
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   55                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31220292      -0.53741190      -0.53741190
+ MM_DIPOLE| Moment [Debye]        -13.50227173      -1.36596468      -1.36596468
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558368612172330
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   56                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31184931      -0.53903037      -0.53903037
+ MM_DIPOLE| Moment [Debye]        -13.50137296      -1.37007841      -1.37007841
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558354215483675
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   57                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31184881      -0.53902974      -0.53902974
+ MM_DIPOLE| Moment [Debye]        -13.50137167      -1.37007681      -1.37007681
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558354248849540
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   58                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31184800      -0.53902680      -0.53902680
+ MM_DIPOLE| Moment [Debye]        -13.50136963      -1.37006933      -1.37006933
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558354307200034
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   59                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31184693      -0.53902219      -0.53902219
+ MM_DIPOLE| Moment [Debye]        -13.50136690      -1.37005762      -1.37005762
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558354383892478
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   60                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31184560      -0.53901642      -0.53901642
+ MM_DIPOLE| Moment [Debye]        -13.50136352      -1.37004296      -1.37004296
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558354473737651
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   61                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31184403      -0.53900988      -0.53900988
+ MM_DIPOLE| Moment [Debye]        -13.50135954      -1.37002633      -1.37002633
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558354572709916
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   62                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31184226      -0.53900286      -0.53900286
+ MM_DIPOLE| Moment [Debye]        -13.50135503      -1.37000849      -1.37000849
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558354677712998
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   63                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31182569      -0.53893552      -0.53893552
+ MM_DIPOLE| Moment [Debye]        -13.50131292      -1.36983733      -1.36983733
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558355673385634
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   64                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31181744      -0.53890425      -0.53890425
+ MM_DIPOLE| Moment [Debye]        -13.50129194      -1.36975784      -1.36975784
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558356095703360
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   65                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31165689      -0.53839591      -0.53839591
+ MM_DIPOLE| Moment [Debye]        -13.50088388      -1.36846576      -1.36846576
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558362568235793
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   66                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31164783      -0.53843347      -0.53843347
+ MM_DIPOLE| Moment [Debye]        -13.50086084      -1.36856124      -1.36856124
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558362282032846
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   67                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31163917      -0.53846432      -0.53846432
+ MM_DIPOLE| Moment [Debye]        -13.50083884      -1.36863966      -1.36863966
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558362059305310
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   68                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31163090      -0.53848939      -0.53848939
+ MM_DIPOLE| Moment [Debye]        -13.50081780      -1.36870337      -1.36870337
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558361891080750
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    0                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32118237      -0.49967025      -0.49967025
+ MM_DIPOLE| Moment [Debye]        -13.52509523      -1.27003496      -1.27003496
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558366570186678
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    1                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32122766      -0.49944545      -0.49944545
+ MM_DIPOLE| Moment [Debye]        -13.52521033      -1.26946360      -1.26946360
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558376217720280
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    2                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32126682      -0.49920964      -0.49920964
+ MM_DIPOLE| Moment [Debye]        -13.52530987      -1.26886423      -1.26886423
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558385721247234
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    3                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32130031      -0.49896247      -0.49896247
+ MM_DIPOLE| Moment [Debye]        -13.52539499      -1.26823597      -1.26823597
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558395103303482
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    4                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32132853      -0.49870409      -0.49870409
+ MM_DIPOLE| Moment [Debye]        -13.52546673      -1.26757924      -1.26757924
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558404379186356
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    5                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32135187      -0.49843503      -0.49843503
+ MM_DIPOLE| Moment [Debye]        -13.52552606      -1.26689535      -1.26689535
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558413558657435
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    6                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32137068      -0.49815607      -0.49815607
+ MM_DIPOLE| Moment [Debye]        -13.52557386      -1.26618630      -1.26618630
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558422647300290
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    7                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32107855      -0.48652721      -0.48652721
+ MM_DIPOLE| Moment [Debye]        -13.52483133      -1.23662870      -1.23662870
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558693459775213
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    8                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32101536      -0.48606127      -0.48606127
+ MM_DIPOLE| Moment [Debye]        -13.52467073      -1.23544441      -1.23544441
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558701211340136
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    9                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32095338      -0.48565383      -0.48565383
+ MM_DIPOLE| Moment [Debye]        -13.52451318      -1.23440878      -1.23440878
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558708321010428
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   10                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32089253      -0.48529627      -0.48529627
+ MM_DIPOLE| Moment [Debye]        -13.52435853      -1.23349997      -1.23349997
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558714878705686
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   11                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32083278      -0.48498139      -0.48498139
+ MM_DIPOLE| Moment [Debye]        -13.52420665      -1.23269961      -1.23269961
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558720959801633
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   12                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32077406      -0.48470311      -0.48470311
+ MM_DIPOLE| Moment [Debye]        -13.52405740      -1.23199231      -1.23199231
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558726627457645
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   13                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32071632      -0.48445637      -0.48445637
+ MM_DIPOLE| Moment [Debye]        -13.52391063      -1.23136516      -1.23136516
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558731934577651
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   14                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31712351      -0.47833695      -0.47833695
+ MM_DIPOLE| Moment [Debye]        -13.51477862      -1.21581115      -1.21581115
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558928979659584
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   15                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31711320      -0.47838234      -0.47838234
+ MM_DIPOLE| Moment [Debye]        -13.51475243      -1.21592651      -1.21592651
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558929809768259
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   16                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31710106      -0.47845980      -0.47845980
+ MM_DIPOLE| Moment [Debye]        -13.51472157      -1.21612340      -1.21612340
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558930273727341
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   17                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31708723      -0.47856629      -0.47856629
+ MM_DIPOLE| Moment [Debye]        -13.51468642      -1.21639407      -1.21639407
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558930404037412
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   18                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31707185      -0.47869897      -0.47869897
+ MM_DIPOLE| Moment [Debye]        -13.51464732      -1.21673130      -1.21673130
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558930230907947
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   19                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31705504      -0.47885521      -0.47885521
+ MM_DIPOLE| Moment [Debye]        -13.51460460      -1.21712843      -1.21712843
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558929782249365
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   20                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31703693      -0.47903261      -0.47903261
+ MM_DIPOLE| Moment [Debye]        -13.51455857      -1.21757932      -1.21757932
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558929083721793
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   21                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31531763      -0.49878021      -0.49878021
+ MM_DIPOLE| Moment [Debye]        -13.51018853      -1.26777271      -1.26777271
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558783779671131
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   22                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31524954      -0.49955574      -0.49955574
+ MM_DIPOLE| Moment [Debye]        -13.51001547      -1.26974393      -1.26974393
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558775166758309
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   23                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31518491      -0.50027124      -0.50027124
+ MM_DIPOLE| Moment [Debye]        -13.50985121      -1.27156255      -1.27156255
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558767162616874
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   24                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31512351      -0.50093480      -0.50093480
+ MM_DIPOLE| Moment [Debye]        -13.50969513      -1.27324914      -1.27324914
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558759690330064
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   25                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31506510      -0.50155328      -0.50155328
+ MM_DIPOLE| Moment [Debye]        -13.50954669      -1.27482117      -1.27482117
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558752684302348
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   26                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31500950      -0.50213254      -0.50213254
+ MM_DIPOLE| Moment [Debye]        -13.50940535      -1.27629349      -1.27629349
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558746088458435
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   27                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31495651      -0.50267754      -0.50267754
+ MM_DIPOLE| Moment [Debye]        -13.50927066      -1.27767875      -1.27767875
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558739854741219
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   28                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31361346      -0.51513660      -0.51513660
+ MM_DIPOLE| Moment [Debye]        -13.50585696      -1.30934652      -1.30934652
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558590988509067
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   29                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31361734      -0.51531035      -0.51531035
+ MM_DIPOLE| Moment [Debye]        -13.50586685      -1.30978814      -1.30978814
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558589407787650
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   30                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31362007      -0.51548377      -0.51548377
+ MM_DIPOLE| Moment [Debye]        -13.50587377      -1.31022893      -1.31022893
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558587821979231
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   31                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31362172      -0.51565779      -0.51565779
+ MM_DIPOLE| Moment [Debye]        -13.50587797      -1.31067125      -1.31067125
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558586222272609
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   32                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31362237      -0.51583305      -0.51583305
+ MM_DIPOLE| Moment [Debye]        -13.50587962      -1.31111672      -1.31111672
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558584602790248
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   33                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31362210      -0.51600996      -0.51600996
+ MM_DIPOLE| Moment [Debye]        -13.50587893      -1.31156638      -1.31156638
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558582959903845
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   34                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31362097      -0.51618875      -0.51618875
+ MM_DIPOLE| Moment [Debye]        -13.50587607      -1.31202080      -1.31202080
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558581291691013
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   35                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31334985      -0.52680137      -0.52680137
+ MM_DIPOLE| Moment [Debye]        -13.50518694      -1.33899538      -1.33899538
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558477742065989
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   36                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31331770      -0.52714124      -0.52714124
+ MM_DIPOLE| Moment [Debye]        -13.50510524      -1.33985927      -1.33985927
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558474272789596
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   37                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31328712      -0.52745353      -0.52745353
+ MM_DIPOLE| Moment [Debye]        -13.50502751      -1.34065302      -1.34065302
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558471073415731
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   38                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31325799      -0.52774188      -0.52774188
+ MM_DIPOLE| Moment [Debye]        -13.50495347      -1.34138593      -1.34138593
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558468108979866
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   39                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31323022      -0.52800938      -0.52800938
+ MM_DIPOLE| Moment [Debye]        -13.50488287      -1.34206584      -1.34206584
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558465349802987
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   40                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31320370      -0.52825866      -0.52825866
+ MM_DIPOLE| Moment [Debye]        -13.50481546      -1.34269946      -1.34269946
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558462770627870
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   41                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31317835      -0.52849197      -0.52849197
+ MM_DIPOLE| Moment [Debye]        -13.50475104      -1.34329248      -1.34329248
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558460349902603
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   42                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31252228      -0.53361773      -0.53361773
+ MM_DIPOLE| Moment [Debye]        -13.50308348      -1.35632086      -1.35632086
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558405524269787
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   43                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31252203      -0.53367960      -0.53367960
+ MM_DIPOLE| Moment [Debye]        -13.50308283      -1.35647811      -1.35647811
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558404920759401
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   44                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31252124      -0.53373865      -0.53373865
+ MM_DIPOLE| Moment [Debye]        -13.50308083      -1.35662820      -1.35662820
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558404347243723
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   45                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31251996      -0.53379579      -0.53379579
+ MM_DIPOLE| Moment [Debye]        -13.50307759      -1.35677342      -1.35677342
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558403794569131
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    0                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32118237      -0.49967025      -0.49967025
+ MM_DIPOLE| Moment [Debye]        -13.52509523      -1.27003496      -1.27003496
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558366570186678
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    1                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32122766      -0.49944545      -0.49944545
+ MM_DIPOLE| Moment [Debye]        -13.52521033      -1.26946360      -1.26946360
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558376217720280
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    2                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32126682      -0.49920964      -0.49920964
+ MM_DIPOLE| Moment [Debye]        -13.52530987      -1.26886423      -1.26886423
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558385721247234
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    3                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32130031      -0.49896247      -0.49896247
+ MM_DIPOLE| Moment [Debye]        -13.52539499      -1.26823597      -1.26823597
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558395103303482
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    4                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32132853      -0.49870409      -0.49870409
+ MM_DIPOLE| Moment [Debye]        -13.52546673      -1.26757924      -1.26757924
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558404379186342
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    5                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32135187      -0.49843503      -0.49843503
+ MM_DIPOLE| Moment [Debye]        -13.52552606      -1.26689535      -1.26689535
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558413558657463
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    6                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32137068      -0.49815607      -0.49815607
+ MM_DIPOLE| Moment [Debye]        -13.52557386      -1.26618630      -1.26618630
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558422647300290
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    7                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32107855      -0.48652721      -0.48652721
+ MM_DIPOLE| Moment [Debye]        -13.52483133      -1.23662870      -1.23662870
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558693459775199
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    8                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32101536      -0.48606127      -0.48606127
+ MM_DIPOLE| Moment [Debye]        -13.52467073      -1.23544441      -1.23544441
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558701211340136
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :    9                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32095338      -0.48565383      -0.48565383
+ MM_DIPOLE| Moment [Debye]        -13.52451318      -1.23440878      -1.23440878
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558708321010457
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   10                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32089253      -0.48529627      -0.48529627
+ MM_DIPOLE| Moment [Debye]        -13.52435853      -1.23349997      -1.23349997
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558714878705658
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   11                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32083278      -0.48498139      -0.48498139
+ MM_DIPOLE| Moment [Debye]        -13.52420665      -1.23269961      -1.23269961
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558720959801647
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   12                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32077406      -0.48470311      -0.48470311
+ MM_DIPOLE| Moment [Debye]        -13.52405740      -1.23199231      -1.23199231
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558726627457617
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   13                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.32071632      -0.48445637      -0.48445637
+ MM_DIPOLE| Moment [Debye]        -13.52391063      -1.23136516      -1.23136516
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558731934577651
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   14                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31712351      -0.47833695      -0.47833695
+ MM_DIPOLE| Moment [Debye]        -13.51477862      -1.21581115      -1.21581115
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558928979661886
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   15                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31711320      -0.47838234      -0.47838234
+ MM_DIPOLE| Moment [Debye]        -13.51475243      -1.21592651      -1.21592651
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558929809770575
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   16                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31710106      -0.47845980      -0.47845980
+ MM_DIPOLE| Moment [Debye]        -13.51472157      -1.21612340      -1.21612340
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558930273729658
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   17                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31708723      -0.47856629      -0.47856629
+ MM_DIPOLE| Moment [Debye]        -13.51468642      -1.21639407      -1.21639407
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558930404039700
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   18                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31707185      -0.47869897      -0.47869897
+ MM_DIPOLE| Moment [Debye]        -13.51464732      -1.21673130      -1.21673130
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558930230910235
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   19                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31705504      -0.47885521      -0.47885521
+ MM_DIPOLE| Moment [Debye]        -13.51460460      -1.21712843      -1.21712843
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558929782251568
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   20                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31703693      -0.47903261      -0.47903261
+ MM_DIPOLE| Moment [Debye]        -13.51455857      -1.21757932      -1.21757932
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558929083723996
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   21                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31531763      -0.49878021      -0.49878021
+ MM_DIPOLE| Moment [Debye]        -13.51018853      -1.26777271      -1.26777271
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558783779673334
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   22                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31524954      -0.49955574      -0.49955574
+ MM_DIPOLE| Moment [Debye]        -13.51001547      -1.26974393      -1.26974393
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558775166760498
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   23                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31518491      -0.50027124      -0.50027124
+ MM_DIPOLE| Moment [Debye]        -13.50985121      -1.27156255      -1.27156255
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558767162619048
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   24                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31512351      -0.50093480      -0.50093480
+ MM_DIPOLE| Moment [Debye]        -13.50969513      -1.27324914      -1.27324914
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558759690332266
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   25                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31506510      -0.50155328      -0.50155328
+ MM_DIPOLE| Moment [Debye]        -13.50954669      -1.27482117      -1.27482117
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558752684304466
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   26                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31500950      -0.50213254      -0.50213254
+ MM_DIPOLE| Moment [Debye]        -13.50940535      -1.27629349      -1.27629349
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558746088460538
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   27                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31495651      -0.50267754      -0.50267754
+ MM_DIPOLE| Moment [Debye]        -13.50927066      -1.27767875      -1.27767875
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558739854743351
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   28                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31361346      -0.51513660      -0.51513660
+ MM_DIPOLE| Moment [Debye]        -13.50585697      -1.30934652      -1.30934652
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558590988514297
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   29                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31361734      -0.51531035      -0.51531035
+ MM_DIPOLE| Moment [Debye]        -13.50586685      -1.30978814      -1.30978814
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558589407792866
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   30                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31362007      -0.51548377      -0.51548377
+ MM_DIPOLE| Moment [Debye]        -13.50587377      -1.31022893      -1.31022893
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558587821984432
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   31                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31362172      -0.51565779      -0.51565779
+ MM_DIPOLE| Moment [Debye]        -13.50587797      -1.31067125      -1.31067125
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558586222277725
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   32                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31362237      -0.51583305      -0.51583305
+ MM_DIPOLE| Moment [Debye]        -13.50587962      -1.31111672      -1.31111672
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558584602795392
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   33                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31362210      -0.51600996      -0.51600996
+ MM_DIPOLE| Moment [Debye]        -13.50587893      -1.31156638      -1.31156638
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558582959908961
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   34                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31362097      -0.51618875      -0.51618875
+ MM_DIPOLE| Moment [Debye]        -13.50587607      -1.31202080      -1.31202080
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558581291696086
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   35                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31334985      -0.52680137      -0.52680137
+ MM_DIPOLE| Moment [Debye]        -13.50518694      -1.33899538      -1.33899538
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558477742062479
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   36                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31331770      -0.52714124      -0.52714124
+ MM_DIPOLE| Moment [Debye]        -13.50510524      -1.33985927      -1.33985927
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558474272786114
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   37                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31328712      -0.52745353      -0.52745353
+ MM_DIPOLE| Moment [Debye]        -13.50502751      -1.34065302      -1.34065302
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558471073412250
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   38                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31325799      -0.52774188      -0.52774188
+ MM_DIPOLE| Moment [Debye]        -13.50495347      -1.34138593      -1.34138593
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558468108976385
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   39                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31323022      -0.52800938      -0.52800938
+ MM_DIPOLE| Moment [Debye]        -13.50488287      -1.34206584      -1.34206584
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558465349799576
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   40                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31320370      -0.52825866      -0.52825866
+ MM_DIPOLE| Moment [Debye]        -13.50481546      -1.34269946      -1.34269946
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558462770624431
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   41                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31317835      -0.52849197      -0.52849197
+ MM_DIPOLE| Moment [Debye]        -13.50475104      -1.34329248      -1.34329248
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558460349899192
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   42                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31252228      -0.53361773      -0.53361773
+ MM_DIPOLE| Moment [Debye]        -13.50308348      -1.35632086      -1.35632086
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558405524270825
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   43                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31252203      -0.53367960      -0.53367960
+ MM_DIPOLE| Moment [Debye]        -13.50308283      -1.35647811      -1.35647811
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558404920760438
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   44                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31252124      -0.53373865      -0.53373865
+ MM_DIPOLE| Moment [Debye]        -13.50308083      -1.35662820      -1.35662820
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558404347244817
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   45                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31251996      -0.53379579      -0.53379579
+ MM_DIPOLE| Moment [Debye]        -13.50307759      -1.35677342      -1.35677342
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558403794570154
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   46                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31251824      -0.53385169      -0.53385169
+ MM_DIPOLE| Moment [Debye]        -13.50307320      -1.35691551      -1.35691551
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558403255759814
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   47                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31251609      -0.53390686      -0.53390686
+ MM_DIPOLE| Moment [Debye]        -13.50306775      -1.35705576      -1.35705576
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558402725561891
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   48                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31251357      -0.53396170      -0.53396170
+ MM_DIPOLE| Moment [Debye]        -13.50306133      -1.35719513      -1.35719513
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558402200085865
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   49                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31228638      -0.53680749      -0.53680749
+ MM_DIPOLE| Moment [Debye]        -13.50248388      -1.36442841      -1.36442841
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558374153170732
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   50                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31227085      -0.53693319      -0.53693319
+ MM_DIPOLE| Moment [Debye]        -13.50244439      -1.36474792      -1.36474792
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558372991360116
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   51                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31225602      -0.53704708      -0.53704708
+ MM_DIPOLE| Moment [Debye]        -13.50240671      -1.36503738      -1.36503738
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558371942528595
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   52                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31224186      -0.53715068      -0.53715068
+ MM_DIPOLE| Moment [Debye]        -13.50237072      -1.36530071      -1.36530071
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558370991809113
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   53                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31222832      -0.53724531      -0.53724531
+ MM_DIPOLE| Moment [Debye]        -13.50233630      -1.36554124      -1.36554124
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558370126655845
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   54                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31221535      -0.53733207      -0.53733207
+ MM_DIPOLE| Moment [Debye]        -13.50230334      -1.36576176      -1.36576176
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558369336450951
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   55                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31220292      -0.53741190      -0.53741190
+ MM_DIPOLE| Moment [Debye]        -13.50227173      -1.36596467      -1.36596467
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558368612180629
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   56                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31184931      -0.53903037      -0.53903037
+ MM_DIPOLE| Moment [Debye]        -13.50137296      -1.37007841      -1.37007841
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558354215483575
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   57                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31184881      -0.53902974      -0.53902974
+ MM_DIPOLE| Moment [Debye]        -13.50137167      -1.37007681      -1.37007681
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558354248849312
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   58                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31184800      -0.53902680      -0.53902680
+ MM_DIPOLE| Moment [Debye]        -13.50136963      -1.37006933      -1.37006933
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558354307199792
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   59                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31184693      -0.53902219      -0.53902219
+ MM_DIPOLE| Moment [Debye]        -13.50136689      -1.37005762      -1.37005762
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558354383892208
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   60                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31184560      -0.53901642      -0.53901642
+ MM_DIPOLE| Moment [Debye]        -13.50136352      -1.37004296      -1.37004296
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558354473737381
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   61                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31184403      -0.53900988      -0.53900988
+ MM_DIPOLE| Moment [Debye]        -13.50135954      -1.37002633      -1.37002633
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558354572709732
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   62                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31184226      -0.53900286      -0.53900286
+ MM_DIPOLE| Moment [Debye]        -13.50135502      -1.37000849      -1.37000849
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558354677712828
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   63                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31182569      -0.53893552      -0.53893552
+ MM_DIPOLE| Moment [Debye]        -13.50131292      -1.36983733      -1.36983733
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558355673384483
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   64                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31181744      -0.53890425      -0.53890425
+ MM_DIPOLE| Moment [Debye]        -13.50129194      -1.36975784      -1.36975784
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558356095702180
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   65                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31165689      -0.53839591      -0.53839591
+ MM_DIPOLE| Moment [Debye]        -13.50088388      -1.36846576      -1.36846576
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558362568237783
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   66                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31164783      -0.53843347      -0.53843347
+ MM_DIPOLE| Moment [Debye]        -13.50086084      -1.36856124      -1.36856124
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558362282034736
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   67                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31163917      -0.53846432      -0.53846432
+ MM_DIPOLE| Moment [Debye]        -13.50083884      -1.36863965      -1.36863965
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558362059307058
+
+ *******************************************************************************
+ **                 BAND EVALUATION OF ENERGIES AND FORCES                    **
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ ** Replica Env Nr. :    0              Replica Band Nr. :    7               **
+ ** Band  Step  Nr. :   68                                                    **
+ *******************************************************************************
+
+ MM_DIPOLE| Dipole type                                   periodic (Berry phase)
+ MM_DIPOLE| Moment [a.u.]          -5.31163090      -0.53848939      -0.53848939
+ MM_DIPOLE| Moment [Debye]        -13.50081780      -1.36870337      -1.36870337
+ MM_DIPOLE| Derivative [a.u.]       0.00000000       0.00000000       0.00000000
+
+ ENERGY| Total FORCE_EVAL ( FIST ) energy [a.u.]:            -75.558361891082399

@@ -1,0 +1,120 @@
+&FORCE_EVAL
+  METHOD Fist
+  &MM
+    &FORCEFIELD
+      &CHARGE
+        ATOM Na
+        CHARGE +1.000
+      &END CHARGE
+      &CHARGE
+        ATOM Cl
+        CHARGE -1.000
+      &END CHARGE
+      &NONBONDED
+        &BMHFT
+          map_atoms NA NA
+          atoms NA NA
+          RCUT 10.0
+        &END BMHFT
+        &BMHFT
+          map_atoms NA CL
+          atoms NA CL
+          RCUT 10.0
+        &END BMHFT
+        &BMHFT
+          map_atoms CL CL
+          atoms CL CL
+          RCUT 10.0
+        &END BMHFT
+      &END NONBONDED
+    &END FORCEFIELD
+    &POISSON
+      &EWALD
+        EWALD_TYPE spme
+        ALPHA .5
+        GMAX 40
+        O_SPLINE 6
+      &END EWALD
+    &END POISSON
+  &END MM
+  &SUBSYS
+    &CELL
+      ABC 22.480 22.480 22.480
+    &END CELL
+    &TOPOLOGY
+      &GENERATE
+         BONDLENGTH_MAX [bohr] 6.5
+         CREATE_MOLECULES FALSE
+      &END
+      COORD_FILE_NAME image_1.xyz
+      COORDINATE XYZ
+      CONN_FILE_FORMAT OFF
+    &END TOPOLOGY
+  &END SUBSYS
+&END FORCE_EVAL
+&GLOBAL
+  PROJECT NaCl
+  RUN_TYPE BAND
+&END GLOBAL
+
+&MOTION
+  &PRINT
+    &VELOCITIES OFF
+    &END
+    &RESTART OFF
+    &END
+    &RESTART_HISTORY OFF
+    &END
+  &END
+  &BAND
+    NPROC_REP 1
+    BAND_TYPE CI-NEB
+    NUMBER_OF_REPLICA 8
+    K_SPRING 0.05
+    &CONVERGENCE_CONTROL
+      #MAX_DR 0.01
+      MAX_FORCE 0.001
+      #RMS_DR 0.02
+      RMS_FORCE 0.0005
+    &END
+    ROTATE_FRAMES T
+    &CI_NEB
+       NSTEPS_IT  100
+    &END
+    &OPTIMIZE_BAND
+      OPT_TYPE DIIS
+      OPTIMIZE_END_POINTS
+      &DIIS
+        NO_LS
+      &END
+    &END
+    &REPLICA
+      COORD_FILE_NAME  image_1.xyz
+    &END
+    &REPLICA
+      COORD_FILE_NAME  image_2.xyz
+    &END
+    &REPLICA
+      COORD_FILE_NAME  image_3.xyz
+    &END
+    &REPLICA
+      COORD_FILE_NAME  image_4.xyz
+    &END
+    &REPLICA
+      COORD_FILE_NAME  image_5.xyz
+    &END
+    &REPLICA
+      COORD_FILE_NAME  image_6.xyz
+    &END
+    &REPLICA
+      COORD_FILE_NAME  image_7.xyz
+    &END
+    &REPLICA
+      COORD_FILE_NAME  image_8.xyz
+    &END
+    &PROGRAM_RUN_INFO
+    &END
+    &CONVERGENCE_INFO
+    &END
+  &END BAND
+&END MOTION
